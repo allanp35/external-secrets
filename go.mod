@@ -142,8 +142,8 @@ require (
 	github.com/google/s2a-go v0.1.8 // indirect
 	github.com/hashicorp/go-secure-stdlib/awsutil v0.3.0 // indirect
 	github.com/hashicorp/go-uuid v1.0.3 // indirect
-	github.com/klauspost/compress v1.17.11 // indirect
 	github.com/jonboulle/clockwork v0.4.0 // indirect
+	github.com/klauspost/compress v1.17.11 // indirect
 	github.com/lestrrat-go/httprc v1.0.6 // indirect
 	github.com/nxadm/tail v1.4.11 // indirect
 	github.com/robfig/cron/v3 v3.0.1 // indirect
