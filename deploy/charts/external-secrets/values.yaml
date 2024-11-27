@@ -121,6 +121,9 @@ rbac:
   servicebindings:
     # -- Specifies whether a clusterrole to give servicebindings read access should be created.
     create: true
+  
+  # -- Aggregate ClusterRoles to Kubernetes default user-facing roles. For more information, see [User-facing roles](https://kubernetes.io/docs/reference/access-authn-authz/rbac/#user-facing-roles)
+  aggregateClusterRoles: true
 
 ## -- Extra environment variables to add to container.
 extraEnv: []
